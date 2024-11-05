@@ -2,13 +2,11 @@
 
 <h1 align="center">Web Technologies Midsem Exam</h1>
 
-<div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
-</div>
+
 
 <div align="center">
   <h3>
-    <a href="https://moderninn.netlify.app/">
+    <a href="https://ema-wolf.github.io/Web-Technologies-Mid-Sem-/">
       Demo
     </a>
   </h3>
